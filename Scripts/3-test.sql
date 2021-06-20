@@ -1,1 +1,5 @@
-select * from `member` m ;
+show tables;
+
+desc account;
+
+select * from account;
