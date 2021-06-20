@@ -1,1 +1,1 @@
-{"resources":{"Scripts/1-grant.sql":{"sql-editor-data-source-id":"mysql8-17a18edfda1-15b8df8163fbe4ba","default-datasource":"mysql8-17a18edfda1-15b8df8163fbe4ba"}}}
+{"resources":{"Scripts/1-grant.sql":{"sql-editor-data-source-id":"mysql8-17a18edfda1-15b8df8163fbe4ba","default-datasource":"mysql8-17a18edfda1-15b8df8163fbe4ba"},"Scripts/3-test.sql":{"sql-editor-data-source-id":"mysql8-17a283a78c6-30beb4cfe120c9b9","default-datasource":"mysql8-17a283a78c6-30beb4cfe120c9b9","default-catalog":"spring_security"}}}
